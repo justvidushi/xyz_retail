@@ -2,7 +2,7 @@
 
 ## Project Overview
 The objective was to design and deliver a unified analytics solution for XYZ Retail Chain, a Bangalore-based retailer operating 10 outlets.
-#The solution includes:
+## The solution includes:
 Interactive Tableau dashboards for Sales & Quality analytics
 A React-based web application to embed and present dashboards
 Consistent branding using provided color palette and logo
@@ -52,7 +52,8 @@ https://public.tableau.com/app/profile/vidushi.5370/viz/XYZRetailChainQualityAna
 
 ## Hosted using GitHub Pages.
 Live URL:
-(Add your GitHub Pages link here)
+Your site is live at:
+https://justvidushi.github.io/xyz_retail/
 
 ## How to Run the Project Locally
 

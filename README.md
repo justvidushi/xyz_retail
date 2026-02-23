@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# XYZ Retail Chain – Sales & Quality Analytics Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+The objective was to design and deliver a unified analytics solution for XYZ Retail Chain, a Bangalore-based retailer operating 10 outlets.
+#The solution includes:
+Interactive Tableau dashboards for Sales & Quality analytics
+A React-based web application to embed and present dashboards
+Consistent branding using provided color palette and logo
+End-to-end deployment using Tableau Public and GitHub Pages
 
-## Available Scripts
+## Tableau Dashboards
+## Sales Dashboard
 
-In the project directory, you can run:
+### Includes:
+KPI: Total Revenue
+KPI: Net Profit
+KPI: Profit Margin
+Monthly Revenue Trend
+Outlet-wise Sales Comparison
 
-### `npm start`
+### Filters:
+Outlet
+Month / Year
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Key Calculations Created:
+Profit Margin %
+Aggregated Monthly Revenue
+Outlet-level performance metrics
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Quality Dashboard
+### Includes:
+KPI: Defect Rate
+KPI: Return Rate
+KPI: Customer Complaints
+Defect Trend Over Time
+Outlet-wise Quality Comparison
+Interactive filters
 
-### `npm test`
+### Key Insights:
+Outlet-level quality performance
+Trend monitoring for operational improvement
+Identification of high-defect outlets
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tableau Public
+Dashboards published and accessible publicly.
+### Links:
+### Sales Dashboard:
+https://public.tableau.com/app/profile/vidushi.5370/viz/XYZRetailChainSalesAnalytics/SalesDashboard
 
-### `npm run build`
+### Quality Dashboard:
+https://public.tableau.com/app/profile/vidushi.5370/viz/XYZRetailChainQualityAnalytics/QualityDashboard
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Hosted using GitHub Pages.
+Live URL:
+(Add your GitHub Pages link here)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to Run the Project Locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Clone repository:
+git clone https://github.com/YOUR_USERNAME/xyz_retail.git
 
-### `npm run eject`
+### Navigate to folder:
+cd xyz_retail
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Install dependencies:
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Start development server:
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### App will run at:
+http://localhost:3000

@@ -74,7 +74,7 @@ Clarity: Clean layout, minimal clutter, highlighting key KPIs
 ## How to Run the Project Locally
 
 ### Clone repository:
-git clone https://github.com/YOUR_USERNAME/xyz_retail.git
+git clone https://github.com/justvidushi/xyz_retail.git
 
 ### Navigate to folder:
 cd xyz_retail

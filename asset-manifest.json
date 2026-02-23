@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/xyz_retail/static/css/main.29e27ea1.css",
-    "main.js": "/xyz_retail/static/js/main.67068a85.js",
+    "main.js": "/xyz_retail/static/js/main.5e47dece.js",
     "static/js/453.4d474481.chunk.js": "/xyz_retail/static/js/453.4d474481.chunk.js",
     "static/media/xyz_Logo.png": "/xyz_retail/static/media/xyz_Logo.2b6c3c2cac3610fd52cd.png",
     "index.html": "/xyz_retail/index.html",
     "main.29e27ea1.css.map": "/xyz_retail/static/css/main.29e27ea1.css.map",
-    "main.67068a85.js.map": "/xyz_retail/static/js/main.67068a85.js.map",
+    "main.5e47dece.js.map": "/xyz_retail/static/js/main.5e47dece.js.map",
     "453.4d474481.chunk.js.map": "/xyz_retail/static/js/453.4d474481.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29e27ea1.css",
-    "static/js/main.67068a85.js"
+    "static/js/main.5e47dece.js"
   ]
 }

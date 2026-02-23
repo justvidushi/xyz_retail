@@ -5,7 +5,7 @@ function Quality() {
     <div>
       <h1 className="dashboard">Quality Dashboard</h1>
       <iframe
-        src="https://public.tableau.com/views/XYZRetailChainQualityAnalytics/QualityDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+        src="https://public.tableau.com/views/XYZRetailChainQualityAnalytics/QualityDashboard?:embed=y&:showVizHome=no"
         width="100%"
         height="800"
         title="Quality Dashboard"

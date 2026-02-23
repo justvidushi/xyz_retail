@@ -61,6 +61,16 @@ Frontend: React, HTML, CSS,
 Data Visualization: Tableau Public,
 Deployment: GitHub Pages
 
+## Assumptions
+Data is cleaned and ready for analysis.
+Calculated fields and aggregated KPIs are used for dashboard insights.
+Dashboards focus on top-level sales and quality metrics relevant to leadership decisions.
+
+## Design Choices
+Consistency: Same font, colors, and visual hierarchy across dashboards and web app.
+Interactivity: Filters and charts allow users to explore data by outlet and time.
+Clarity: Clean layout, minimal clutter, highlighting key KPIs
+
 ## How to Run the Project Locally
 
 ### Clone repository:

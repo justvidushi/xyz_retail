@@ -12,33 +12,34 @@ End-to-end deployment using Tableau Public and GitHub Pages
 ## Sales Dashboard
 
 ### Includes:
-KPI: Total Revenue
-KPI: Net Profit
-KPI: Profit Margin
-Monthly Revenue Trend
+KPI: Total Revenue,
+KPI: Net Profit,
+KPI: Profit Margin,
+Monthly Revenue Trend,
 Outlet-wise Sales Comparison
 
 ### Filters:
-Outlet
-Month / Year
+Outlet,
+Month,
+Year
 
 ### Key Calculations Created:
-Profit Margin %
-Aggregated Monthly Revenue
+Profit Margin %,
+Aggregated Monthly Revenue,
 Outlet-level performance metrics
 
 ## Quality Dashboard
 ### Includes:
-KPI: Defect Rate
-KPI: Return Rate
-KPI: Customer Complaints
-Defect Trend Over Time
-Outlet-wise Quality Comparison
+KPI: Defect Rate,
+KPI: Return Rate,
+KPI: Customer Complaints,
+Defect Trend Over Time,
+Outlet-wise Quality Comparison,
 Interactive filters
 
 ### Key Insights:
-Outlet-level quality performance
-Trend monitoring for operational improvement
+Outlet-level quality performance,
+Trend monitoring for operational improvement,
 Identification of high-defect outlets
 
 ## Tableau Public
@@ -52,8 +53,13 @@ https://public.tableau.com/app/profile/vidushi.5370/viz/XYZRetailChainQualityAna
 
 ## Hosted using GitHub Pages.
 Live URL:
-Your site is live at:
 https://justvidushi.github.io/xyz_retail/
+
+## Tech Stack
+
+Frontend: React, HTML, CSS,
+Data Visualization: Tableau Public,
+Deployment: GitHub Pages
 
 ## How to Run the Project Locally
 
@@ -71,3 +77,8 @@ npm start
 
 ### App will run at:
 http://localhost:3000
+
+## Deployment
+The app is deployed using GitHub Pages. 
+Live URL:
+https://justvidushi.github.io/xyz_retail/
